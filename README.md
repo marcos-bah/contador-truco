@@ -1,6 +1,8 @@
-# contador
+# contador de Truco
 
 A new Flutter project.
+
+![](https://github.com/marcos-bah/contador-truco/blob/master/doc/contador.gif)
 
 ## Getting Started
 
